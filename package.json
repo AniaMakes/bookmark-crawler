@@ -1,0 +1,23 @@
+{
+  "name": "bookmark-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniaMakes/bookmark-crawler.git"
+  },
+  "author": "AniaMakes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniaMakes/bookmark-crawler/issues"
+  },
+  "homepage": "https://github.com/AniaMakes/bookmark-crawler#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0",
+    "puppeteer-full-page-screenshot": "^1.0.5"
+  }
+}
